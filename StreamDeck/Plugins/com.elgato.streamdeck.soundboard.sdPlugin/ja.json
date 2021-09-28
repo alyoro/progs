@@ -1,0 +1,12 @@
+{
+"Description": "サウンドボード", 
+"Name": "サウンドボード", 
+"com.elgato.streamdeck.soundboard.playaudio": {
+"Name": "オーディオを再生", 
+"Tooltip": "サウンドバイト、オーディオエフェクト、またはミュージッククリップを再生"
+}, 
+"com.elgato.streamdeck.soundboard.stopaudioplay": {
+"Name": "オーディオを停止", 
+"Tooltip": "すべてのサウンドボードの再生を停止"
+}
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "キーコマンドを有効にする", 
+  "Name": "キーコマンドを有効にする", 
+  "com.elgato.streamdeck.system.hotkey": {
+    "Name": "ホットキー", 
+    "Tooltip": "キーコマンドを有効にする"
+  }
+}

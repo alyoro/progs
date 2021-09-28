@@ -1,0 +1,96 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/egc_flashback_record_white", 
+      "Name": "Flashback Recording", 
+      "States": [
+        {
+          "Image": "Images/btn_egc_flashback_record"
+        }
+      ], 
+      "Tooltip": "Slide back in time and record retroactively", 
+      "UUID": "com.elgato.streamdeck.gamecapture.flashbackrecord"
+    }, 
+    {
+      "Icon": "Images/toggle_microphone_white", 
+      "Name": "Live Commentary", 
+      "States": [
+        {
+          "Image": "Images/btn_egc_toggle_microphone",
+		  "Name": "Activate"
+        }, 
+        {
+          "Image": "Images/btn_egc_toggle_microphone_inactive",
+		  "Name": "Deactivate"
+        }
+      ], 
+      "Tooltip": "Activate/deactivate live commentary", 
+      "UUID": "com.elgato.streamdeck.gamecapture.livecommentary"
+    }, 
+    {
+      "Icon": "Images/egc_toggle_recording_white", 
+      "Name": "Record", 
+      "States": [
+        {
+          "Image": "Images/btn_egc_toggle_recording",
+		  "Name": "Start"
+        }, 
+        {
+          "Image": "Images/btn_egc_toggle_recording_inactive",
+		  "Name": "Stop"
+        }
+      ], 
+      "Tooltip": "Start/stop recording", 
+      "UUID": "com.elgato.streamdeck.gamecapture.record"
+    }, 
+    {
+      "Icon": "Images/select_scene_white", 
+      "Name": "Scene", 
+      "States": [
+        {
+          "Image": "Images/btn_egc_select_scene",
+		  "Name": "Activate"
+        }, 
+        {
+          "Image": "Images/btn_egc_select_scene_inactive",
+		  "Name":  "Deactivate"
+        }
+      ], 
+      "Tooltip": "Activate a scene", 
+      "UUID": "com.elgato.streamdeck.gamecapture.scene"
+    }, 
+    {
+      "Icon": "Images/egc_take_screenshot_white", 
+      "Name": "Screenshot", 
+      "States": [
+        {
+          "Image": "Images/btn_egc_take_screenshot"
+        }
+      ], 
+      "Tooltip": "Take a snapshot of your screen", 
+      "UUID": "com.elgato.streamdeck.gamecapture.screenshot"
+    }, 
+    {
+      "Icon": "Images/egc_toggle_streaming_white", 
+      "Name": "Stream", 
+      "States": [
+        {
+          "Image": "Images/btn_egc_toggle_streaming",
+		  "Name": "Start"
+        }, 
+        {
+          "Image": "Images/btn_egc_toggle_streaming_inactive",
+		  "Name": "Stop"
+        }
+      ], 
+      "Tooltip": "Start/stop live streaming", 
+      "UUID": "com.elgato.streamdeck.gamecapture.stream"
+    }
+  ], 
+  "Author": "Elgato", 
+  "Description": "Game Capture integration", 
+  "Name": "Game Capture integration", 
+  "URL": "https://www.elgato.com/en/gaming/stream-deck", 
+  "PrivateAPI": true,
+  "Version": "1.0"
+}

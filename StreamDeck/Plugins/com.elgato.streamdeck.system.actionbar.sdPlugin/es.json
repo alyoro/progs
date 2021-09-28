@@ -1,0 +1,16 @@
+{
+  "Description": "Ocultar/mostrar la barra de acciones", 
+  "Name": "Ocultar/mostrar la barra de acciones", 
+  "com.elgato.streamdeck.system.actionbar": {
+    "Name": "Barra de acciones", 
+    "Tooltip": "Ocultar/mostrar la barra de acciones",
+    "States": [
+        {
+		  "Name": "Mostrar"
+        }, 
+        {
+		  "Name": "Ocultar"
+        }
+      ]
+  }
+}

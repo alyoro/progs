@@ -1,0 +1,8 @@
+{
+  "Description": "Saisir une chaîne de texte prédéfinie", 
+  "Name": "Texte", 
+  "com.elgato.streamdeck.system.text": {
+    "Name": "Texte", 
+    "Tooltip": "Saisir une chaîne de texte prédéfinie"
+  }
+}

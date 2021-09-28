@@ -1,0 +1,8 @@
+{
+  "Description": "Einen Tastenbefehl ausführen", 
+  "Name": "Einen Tastenbefehl ausführen", 
+  "com.elgato.streamdeck.system.hotkey": {
+    "Name": "Hotkey", 
+    "Tooltip": "Einen Tastenbefehl ausführen"
+  }
+}

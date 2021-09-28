@@ -1,0 +1,25 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/toggle_hotkey_white", 
+      "Name": "Hotkey Switch", 
+      "States": [
+        {
+          "Image": "Images/btn_custom_toggle_hotkey"
+        }, 
+        {
+          "Image": "Images/btn_custom_toggle_hotkey_off"
+        }
+      ], 
+      "Tooltip": "Toggle between two key commands", 
+      "UUID": "com.elgato.streamdeck.system.hotkeyswitch",
+	  "SupportedInMultiActions": false
+    }
+  ], 
+  "Author": "Elgato", 
+  "Description": "Toggle between two key commands", 
+  "Name": "Hotkey Switch", 
+  "URL": "https://www.elgato.com/en/gaming/stream-deck", 
+  "PrivateAPI": true,
+  "Version": "1.0"
+}

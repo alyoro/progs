@@ -1,0 +1,20 @@
+{
+  "Description": "다중 동작", 
+  "Name": "다중 동작", 
+  "com.elgato.streamdeck.multiactions.routine": {
+    "Name": "다중 동작", 
+    "Tooltip": "다중 동작을 실행합니다"
+  }, 
+  "com.elgato.streamdeck.multiactions.routine2": {
+    "Name": "다중 동작 스위치", 
+    "Tooltip": "두 개의 다중 동작 사이를 전환합니다"
+  }, 
+  "com.elgato.streamdeck.multiactions.random": {
+    "Name": "무작위 동작", 
+    "Tooltip": "무작위 동작을 실행합니다"
+  }, 
+  "com.elgato.streamdeck.multiactions.delay": {
+    "Name": "지연", 
+    "Tooltip": "일련의 동작을 일시정지합니다"
+  }
+}

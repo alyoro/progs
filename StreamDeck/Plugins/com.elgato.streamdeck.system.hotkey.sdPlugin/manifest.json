@@ -1,0 +1,21 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/trigger_hotkey2_white", 
+      "Name": "Hotkey", 
+      "States": [
+        {
+          "Image": "Images/btn_custom_trigger_hotkey2"
+        }
+      ], 
+      "Tooltip": "Activate a key command", 
+      "UUID": "com.elgato.streamdeck.system.hotkey"
+    }
+  ], 
+  "Author": "Elgato", 
+  "Description": "Activate a key command", 
+  "Name": "Activate a Key Command", 
+  "URL": "https://www.elgato.com/en/gaming/stream-deck", 
+  "PrivateAPI": true,
+  "Version": "1.0"
+}

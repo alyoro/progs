@@ -1,0 +1,8 @@
+{
+  "Description": "Introducir un texto escrito de antemano", 
+  "Name": "Texto", 
+  "com.elgato.streamdeck.system.text": {
+    "Name": "Texto", 
+    "Tooltip": "Introducir un texto escrito de antemano"
+  }
+}

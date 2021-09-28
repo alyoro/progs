@@ -1,0 +1,60 @@
+{
+  "Description": "Integración con Game Capture", 
+  "Name": "Integración con Game Capture", 
+  "com.elgato.streamdeck.gamecapture.flashbackrecord": {
+    "Name": "Grabación Flashback", 
+    "Tooltip": "Retrocede en el tiempo y graba de forma retroactiva"
+  }, 
+  "com.elgato.streamdeck.gamecapture.livecommentary": {
+    "Name": "Comentarios en directo", 
+    "Tooltip": "Activar/desactivar comentarios en directo",
+    "States": [
+        {
+		  "Name": "Activar"
+        }, 
+        {
+		  "Name": "Desactivar"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.gamecapture.record": {
+    "Name": "Grabar", 
+    "Tooltip": "Iniciar/detener grabación",
+    "States": [
+        {
+		  "Name": "Iniciar"
+        }, 
+        {
+		  "Name": "Detener"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.gamecapture.scene": {
+    "Name": "Escena", 
+    "Tooltip": "Activar una escena",
+    "States": [
+        {
+		  "Name": "Activar"
+        }, 
+        {
+		  "Name":  "Desactivar"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.gamecapture.screenshot": {
+    "Name": "Captura de pantalla", 
+    "Tooltip": "Hace una captura de pantalla"
+  }, 
+  "com.elgato.streamdeck.gamecapture.stream": {
+    "Name": "Stream", 
+    "Tooltip": "Iniciar/detener streaming en directo",
+    "States": [
+        {
+		  "Name": "Iniciar"
+        }, 
+        {
+		  "Name": "Detener"
+        }
+      ]
+  }
+}

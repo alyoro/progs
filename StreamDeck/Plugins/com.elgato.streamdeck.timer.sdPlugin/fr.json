@@ -1,0 +1,8 @@
+{
+  "Description": "Minuteur", 
+  "Name": "Minuteur", 
+  "com.elgato.streamdeck.system.timer": {
+    "Name": "Minuteur", 
+    "Tooltip": "Minuteur pour Stream Deck (sonore et visuel)"
+  }
+}

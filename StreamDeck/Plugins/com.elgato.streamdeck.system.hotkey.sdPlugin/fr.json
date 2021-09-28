@@ -1,0 +1,8 @@
+{
+  "Description": "Activer une commande de touche", 
+  "Name": "Activer une commande de touche", 
+  "com.elgato.streamdeck.system.hotkey": {
+    "Name": "Raccourci", 
+    "Tooltip": "Activer une commande de touche"
+  }
+}

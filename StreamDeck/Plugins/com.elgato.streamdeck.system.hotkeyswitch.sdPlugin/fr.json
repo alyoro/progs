@@ -1,0 +1,8 @@
+{
+  "Description": "Alterner entre deux commandes de touche", 
+  "Name": "Plusieurs raccourcis", 
+  "com.elgato.streamdeck.system.hotkeyswitch": {
+    "Name": "Plusieurs raccourcis", 
+    "Tooltip": "Alterner entre deux commandes de touche"
+  }
+}

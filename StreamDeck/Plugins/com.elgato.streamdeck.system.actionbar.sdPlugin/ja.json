@@ -1,0 +1,16 @@
+{
+  "Description": "アクションバーを表示/非表示", 
+  "Name": "アクションバーを表示/非表示", 
+  "com.elgato.streamdeck.system.actionbar": {
+    "Name": "アクションバー", 
+    "Tooltip": "アクションバーを表示/非表示",
+    "States": [
+        {
+		  "Name": "表示"
+        }, 
+        {
+		  "Name": "非表示"
+        }
+      ]
+  }
+}

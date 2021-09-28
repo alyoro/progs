@@ -1,0 +1,8 @@
+{
+  "Description": "Créer un dossier", 
+  "Name": "Créer un dossier", 
+  "com.elgato.streamdeck.profile.openchild": {
+    "Name": "Créer un dossier", 
+    "Tooltip": "Créer un dossier"
+  }
+}

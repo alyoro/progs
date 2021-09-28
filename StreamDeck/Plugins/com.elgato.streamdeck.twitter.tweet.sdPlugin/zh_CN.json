@@ -1,0 +1,8 @@
+{
+  "Description": "Twitter 集成", 
+  "Name": "Twitter 集成", 
+  "com.elgato.streamdeck.twitter.tweet": {
+    "Name": "推文", 
+    "Tooltip": "发布预编辑的推文"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "두 개의 키 명령 사이를 전환합니다", 
+  "Name": "단축키 전환", 
+  "com.elgato.streamdeck.system.hotkeyswitch": {
+    "Name": "단축키 전환", 
+    "Tooltip": "두 개의 키 명령 사이를 전환합니다"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "打开母文件夹", 
+  "Name": "打开母文件夹", 
+  "com.elgato.streamdeck.profile.backtoparent": {
+    "Name": "母文件夹", 
+    "Tooltip": "打开母文件夹"
+  }
+}

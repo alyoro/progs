@@ -1,0 +1,20 @@
+{
+  "Description": "Multi Action", 
+  "Name": "Multi Action", 
+  "com.elgato.streamdeck.multiactions.routine": {
+    "Name": "Multi Action", 
+    "Tooltip": "Execute multiple actions"
+  }, 
+  "com.elgato.streamdeck.multiactions.routine2": {
+    "Name": "Multi Action Switch", 
+    "Tooltip": "Toggle between two Multi Action"
+  }, 
+  "com.elgato.streamdeck.multiactions.random": {
+    "Name": "Random Action", 
+    "Tooltip": "Execute a random action"
+  }, 
+  "com.elgato.streamdeck.multiactions.delay": {
+    "Name": "Delay", 
+    "Tooltip": "Pause the actions sequence"
+  }
+}

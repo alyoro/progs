@@ -1,0 +1,12 @@
+{
+"Description": "Soundboard", 
+"Name": "Soundboard", 
+"com.elgato.streamdeck.soundboard.playaudio": {
+"Name": "오디오 재생", 
+"Tooltip": "사운드 효과, 코멘트 또는 음악 클립을 재생합니다"
+}, 
+"com.elgato.streamdeck.soundboard.stopaudioplay": {
+"Name": "오디오 정지", 
+"Tooltip": "모든 Soundboard 재생을 정지합니다"
+}
+}

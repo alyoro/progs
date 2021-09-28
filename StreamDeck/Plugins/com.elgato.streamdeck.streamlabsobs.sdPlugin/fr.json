@@ -1,0 +1,56 @@
+{
+  "Description": "Intégration Streamlabs OBS", 
+  "Name": "Intégration Streamlabs OBS", 
+  "com.elgato.streamdeck.streamlabsobs.mixeraudio": {
+    "Name": "Table de mixage", 
+    "Tooltip": "Activer/Désactiver une source audio",
+    "States": [
+        {
+		  "Name": "Activer"
+        }, 
+        {
+		  "Name": "Désactiver"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.streamlabsobs.record": {
+    "Name": "Enregistrer", 
+    "Tooltip": "Lancer/Arrêter l’enregistrement",
+    "States": [
+        {
+		  "Name": "Démarrer"
+        }, 
+        {
+		  "Name": "Arrêter"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.streamlabsobs.scene": {
+    "Name": "Scène", 
+    "Tooltip": "Activer une scène"
+  }, 
+  "com.elgato.streamdeck.streamlabsobs.source": {
+    "Name": "Source", 
+    "Tooltip": "Activer/Désactiver une source",
+    "States": [
+        {
+		  "Name": "Activer"
+        }, 
+        {
+		  "Name": "Désactiver"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.streamlabsobs.stream": {
+    "Name": "Diffuser", 
+    "Tooltip": "Lancer/Arrêter la diffusion en direct",
+    "States": [
+        {
+		  "Name": "Démarrer"
+        }, 
+        {
+		  "Name": "Arrêter"
+        }
+      ]
+  }
+}

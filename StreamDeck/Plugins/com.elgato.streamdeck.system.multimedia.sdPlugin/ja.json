@@ -1,0 +1,8 @@
+{
+  "Description": "メディアの再生をコントロール", 
+  "Name": "マルチメディア", 
+  "com.elgato.streamdeck.system.multimedia": {
+    "Name": "マルチメディア", 
+    "Tooltip": "メディアの再生をコントロール"
+  }
+}

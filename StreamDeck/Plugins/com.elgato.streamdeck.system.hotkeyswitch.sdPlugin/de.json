@@ -1,0 +1,8 @@
+{
+  "Description": "Zwischen Tastenbefehlen wechseln", 
+  "Name": "Hotkey-Wechsel", 
+  "com.elgato.streamdeck.system.hotkeyswitch": {
+    "Name": "Hotkey-Wechsel", 
+    "Tooltip": "Zwischen Tastenbefehlen wechseln"
+  }
+}

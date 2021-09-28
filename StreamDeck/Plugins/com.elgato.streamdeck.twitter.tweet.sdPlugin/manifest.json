@@ -1,0 +1,21 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/post_message_white", 
+      "Name": "Tweet", 
+      "States": [
+        {
+          "Image": "Images/btn_twitter_post_message"
+        }
+      ], 
+      "Tooltip": "Post a precomposed tweet", 
+      "UUID": "com.elgato.streamdeck.twitter.tweet"
+    }
+  ], 
+  "Author": "Elgato", 
+  "Description": "Twitter integration", 
+  "Name": "Twitter integration", 
+  "URL": "https://www.elgato.com/en/gaming/stream-deck", 
+  "PrivateAPI": true,
+  "Version": "1.0"
+}

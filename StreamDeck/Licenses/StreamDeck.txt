@@ -1,0 +1,2 @@
+STREAM DECK IS POWERED BY QT
+Elgato’s copy of Qt is available here: https://www.elgato.com/en/oss

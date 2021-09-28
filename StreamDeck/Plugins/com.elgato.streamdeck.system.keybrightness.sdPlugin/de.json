@@ -1,0 +1,8 @@
+{
+  "Description": "Helligkeit deiner Stream Deck Tasten anpassen", 
+  "Name": "Helligkeit", 
+  "com.elgato.streamdeck.system.keybrightness": {
+    "Name": "Helligkeit", 
+    "Tooltip": "Helligkeit deiner Stream Deck Tasten anpassen"
+  }
+}

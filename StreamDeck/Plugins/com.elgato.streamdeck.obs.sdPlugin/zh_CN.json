@@ -1,0 +1,56 @@
+{
+  "Description": "OBS 集成", 
+  "Name": "OBS 集成", 
+  "com.elgato.streamdeck.obs.mixeraudio": {
+    "Name": "Mixer音频", 
+    "Tooltip": "激活/停用音频源",
+    "States": [
+        {
+		  "Name": "激活"
+        }, 
+        {
+		  "Name": "取消激活"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.obs.record": {
+    "Name": "录制", 
+    "Tooltip": "开始/停止录制",
+    "States": [
+        {
+		  "Name": "开始"
+        }, 
+        {
+		  "Name": "停止"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.obs.scene": {
+    "Name": "场景", 
+    "Tooltip": "激活场景"
+  }, 
+  "com.elgato.streamdeck.obs.source": {
+    "Name": "源", 
+    "Tooltip": "激活/停用源",
+    "States": [
+        {
+		  "Name": "激活"
+        }, 
+        {
+		  "Name": "取消激活"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.obs.stream": {
+    "Name": "实时播放", 
+    "Tooltip": "开始/停止实时播放",
+    "States": [
+        {
+		  "Name": "开始"
+        }, 
+        {
+		  "Name": "停止"
+        }
+      ]
+  }
+}

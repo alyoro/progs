@@ -1,0 +1,16 @@
+{
+  "Description": "동작 막대 보기/가리기", 
+  "Name": "동작 막대 보기/가리기", 
+  "com.elgato.streamdeck.system.actionbar": {
+    "Name": "동작 막대", 
+    "Tooltip": "동작 막대 보기/가리기",
+    "States": [
+        {
+		  "Name": "보기"
+        }, 
+        {
+		  "Name": "가리기"
+        }
+      ]
+  }
+}

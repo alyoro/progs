@@ -1,0 +1,20 @@
+{
+  "Description": "Acción múltiple", 
+  "Name": "Acción múltiple", 
+  "com.elgato.streamdeck.multiactions.routine": {
+    "Name": "Acción múltiple", 
+    "Tooltip": "Ejecutar varias acciones"
+  }, 
+  "com.elgato.streamdeck.multiactions.routine2": {
+    "Name": "Conmutador de Acción múltiple", 
+    "Tooltip": "Cambia entre dos comandos de Acción múltiple"
+  }, 
+  "com.elgato.streamdeck.multiactions.random": {
+    "Name": "Acción aleatoria", 
+    "Tooltip": "Ejecuta una acción al azar"
+  }, 
+  "com.elgato.streamdeck.multiactions.delay": {
+    "Name": "Retardo", 
+    "Tooltip": "Pausar la secuencia de acciones"
+  }
+}

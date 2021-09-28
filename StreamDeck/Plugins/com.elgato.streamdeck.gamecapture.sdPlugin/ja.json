@@ -1,0 +1,60 @@
+{
+  "Description": "Game Captureと統合", 
+  "Name": "Game Captureと統合", 
+  "com.elgato.streamdeck.gamecapture.flashbackrecord": {
+    "Name": "Flashback録画", 
+    "Tooltip": "スライドして時間を戻し、時間を遡って録画"
+  }, 
+  "com.elgato.streamdeck.gamecapture.livecommentary": {
+    "Name": "ライブコメント", 
+    "Tooltip": "ライブコメントを有効/無効にする",
+    "States": [
+        {
+		  "Name": "有効にする"
+        }, 
+        {
+		  "Name": "無効にする"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.gamecapture.record": {
+    "Name": "録画", 
+    "Tooltip": "録画を開始/停止",
+    "States": [
+        {
+		  "Name": "開始"
+        }, 
+        {
+		  "Name": "停止"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.gamecapture.scene": {
+    "Name": "シーン", 
+    "Tooltip": "シーンを有効にする",
+    "States": [
+        {
+		  "Name": "有効にする"
+        }, 
+        {
+		  "Name":  "無効にする"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.gamecapture.screenshot": {
+    "Name": "スクリーンショット", 
+    "Tooltip": "画面のスナップショットを撮る"
+  }, 
+  "com.elgato.streamdeck.gamecapture.stream": {
+    "Name": "ストリーム", 
+    "Tooltip": "ライブストリームを開始/停止",
+    "States": [
+        {
+		  "Name": "開始"
+        }, 
+        {
+		  "Name": "停止"
+        }
+      ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "今すぐスリープ", 
+  "Name": "スリープ", 
+  "com.elgato.streamdeck.system.sleep": {
+    "Name": "スリープ", 
+    "Tooltip": "Stream Deckをスリープさせる"
+  }
+}

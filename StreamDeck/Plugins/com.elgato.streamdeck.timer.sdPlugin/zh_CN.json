@@ -1,0 +1,8 @@
+{
+  "Description": "定时器", 
+  "Name": "定时器", 
+  "com.elgato.streamdeck.system.timer": {
+    "Name": "定时器", 
+    "Tooltip": "Stream Deck 定时器（声音和视觉）"
+  }
+}

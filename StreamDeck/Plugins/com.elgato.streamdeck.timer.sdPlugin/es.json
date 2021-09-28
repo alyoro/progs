@@ -1,0 +1,8 @@
+{
+  "Description": "Temporizador", 
+  "Name": "Temporizador", 
+  "com.elgato.streamdeck.system.timer": {
+    "Name": "Temporizador", 
+    "Tooltip": "Temporizador para Stream Deck (acústico y visual)"
+  }
+}

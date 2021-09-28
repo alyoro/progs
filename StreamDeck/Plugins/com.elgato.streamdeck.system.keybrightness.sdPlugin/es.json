@@ -1,0 +1,8 @@
+{
+  "Description": "Ajustar el brillo de las teclas del Stream Deck", 
+  "Name": "Brillo", 
+  "com.elgato.streamdeck.system.keybrightness": {
+    "Name": "Brillo", 
+    "Tooltip": "Ajustar el brillo de las teclas del Stream Deck"
+  }
+}

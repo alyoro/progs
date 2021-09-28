@@ -1,0 +1,8 @@
+{
+  "Description": "Twitter name", 
+  "Name": "Twitter name", 
+  "com.elgato.streamdeck.twitter.name": {
+    "Name": "Change Name", 
+    "Tooltip": "Change your display name on Twitter"
+  }
+}

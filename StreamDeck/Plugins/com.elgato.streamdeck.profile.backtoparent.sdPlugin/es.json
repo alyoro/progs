@@ -1,0 +1,8 @@
+{
+  "Description": "Abrir carpeta contenedora", 
+  "Name": "Abrir carpeta contenedora", 
+  "com.elgato.streamdeck.profile.backtoparent": {
+    "Name": "Carpeta contenedora", 
+    "Tooltip": "Abrir carpeta contenedora"
+  }
+}

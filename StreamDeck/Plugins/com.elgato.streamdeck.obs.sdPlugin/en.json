@@ -1,0 +1,56 @@
+{
+  "Description": "OBS integration", 
+  "Name": "OBS integration", 
+  "com.elgato.streamdeck.obs.mixeraudio": {
+    "Name": "Mixer Audio", 
+    "Tooltip": "Activate/deactivate an audio source",
+    "States": [
+        {
+		  "Name": "Activate"
+        }, 
+        {
+		  "Name": "Deactivate"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.obs.record": {
+    "Name": "Record", 
+    "Tooltip": "Start/stop recording",
+    "States": [
+        {
+		  "Name": "Start"
+        }, 
+        {
+		  "Name": "Stop"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.obs.scene": {
+    "Name": "Scene", 
+    "Tooltip": "Activate a scene"
+  }, 
+  "com.elgato.streamdeck.obs.source": {
+    "Name": "Source", 
+    "Tooltip": "Activate/deactivate a source",
+    "States": [
+        {
+		  "Name": "Activate"
+        }, 
+        {
+		  "Name": "Deactivate"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.obs.stream": {
+    "Name": "Stream", 
+    "Tooltip": "Start/stop live streaming",
+    "States": [
+        {
+		  "Name": "Start"
+        }, 
+        {
+		  "Name": "Stop"
+        }
+      ]
+  }
+}

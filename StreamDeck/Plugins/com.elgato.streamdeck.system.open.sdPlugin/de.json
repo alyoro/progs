@@ -1,0 +1,8 @@
+{
+  "Description": "App, Datei oder Ordner öffnen", 
+  "Name": "Öffnen", 
+  "com.elgato.streamdeck.system.open": {
+    "Name": "Öffnen", 
+    "Tooltip": "App, Datei oder Ordner öffnen"
+  }
+}

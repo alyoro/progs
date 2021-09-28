@@ -1,0 +1,8 @@
+{
+  "Description": "Open parent folder", 
+  "Name": "Open parent folder", 
+  "com.elgato.streamdeck.profile.backtoparent": {
+    "Name": "Parent Folder", 
+    "Tooltip": "Open Parent folder"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "Twitter 이름", 
+  "Name": "Twitter 이름", 
+  "com.elgato.streamdeck.twitter.name": {
+    "Name": "이름 변경", 
+    "Tooltip": "Twitter에 표시되는 이름을 변경합니다"
+  }
+}

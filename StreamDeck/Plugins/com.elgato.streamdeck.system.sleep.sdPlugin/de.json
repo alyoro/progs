@@ -1,0 +1,8 @@
+{
+  "Description": "Sofort in den Ruhezustand", 
+  "Name": "Ruhezustand", 
+  "com.elgato.streamdeck.system.sleep": {
+    "Name": "Ruhezustand", 
+    "Tooltip": "Versetzt Stream Deck in den Ruhezustand"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "상위 폴더 열기", 
+  "Name": "상위 폴더 열기", 
+  "com.elgato.streamdeck.profile.backtoparent": {
+    "Name": "상위 폴더", 
+    "Tooltip": "상위 폴더 열기"
+  }
+}

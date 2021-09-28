@@ -1,0 +1,20 @@
+{
+  "Description": "マルチアクション", 
+  "Name": "マルチアクション", 
+  "com.elgato.streamdeck.multiactions.routine": {
+    "Name": "マルチアクション", 
+    "Tooltip": "複数のアクションを実行"
+  }, 
+  "com.elgato.streamdeck.multiactions.routine2": {
+    "Name": "マルチアクションのスイッチ", 
+    "Tooltip": "2つのマルチアクションを切り替える"
+  }, 
+  "com.elgato.streamdeck.multiactions.random": {
+    "Name": "ランダムアクション", 
+    "Tooltip": "ランダムアクションを実行"
+  }, 
+  "com.elgato.streamdeck.multiactions.delay": {
+    "Name": "遅延", 
+    "Tooltip": "アクションのシーケンスを一時停止"
+  }
+}

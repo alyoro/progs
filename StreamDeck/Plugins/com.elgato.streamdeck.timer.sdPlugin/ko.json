@@ -1,0 +1,8 @@
+{
+  "Description": "타이머", 
+  "Name": "타이머", 
+  "com.elgato.streamdeck.system.timer": {
+    "Name": "타이머", 
+    "Tooltip": "Stream Deck를 위한 타이머를 설정합니다 (청각 및 시각)"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "２つのキーコマンドを切り替える", 
+  "Name": "ホットキーの切り替え", 
+  "com.elgato.streamdeck.system.hotkeyswitch": {
+    "Name": "ホットキーの切り替え", 
+    "Tooltip": "２つのキーコマンドを切り替える"
+  }
+}

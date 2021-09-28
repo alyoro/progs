@@ -1,0 +1,8 @@
+{
+  "Description": "Cambiar entre dos comandos de tecla", 
+  "Name": "Interruptor de atajo", 
+  "com.elgato.streamdeck.system.hotkeyswitch": {
+    "Name": "Interruptor de atajo", 
+    "Tooltip": "Cambiar entre dos comandos de tecla"
+  }
+}

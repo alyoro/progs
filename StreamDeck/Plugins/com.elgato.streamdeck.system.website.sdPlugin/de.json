@@ -1,0 +1,8 @@
+{
+  "Description": "Webseite öffnen", 
+  "Name": "Webseite", 
+  "com.elgato.streamdeck.system.website": {
+    "Name": "Webseite", 
+    "Tooltip": "URL öffnen"
+  }
+}

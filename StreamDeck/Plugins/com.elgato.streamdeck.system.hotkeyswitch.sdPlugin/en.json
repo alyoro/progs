@@ -1,0 +1,8 @@
+{
+  "Description": "Toggle between two key commands", 
+  "Name": "Hotkey Switch", 
+  "com.elgato.streamdeck.system.hotkeyswitch": {
+    "Name": "Hotkey Switch", 
+    "Tooltip": "Toggle between two key commands"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "웹사이트 열기", 
+  "Name": "웹사이트", 
+  "com.elgato.streamdeck.system.website": {
+    "Name": "웹사이트", 
+    "Tooltip": "URL을 엽니다"
+  }
+}

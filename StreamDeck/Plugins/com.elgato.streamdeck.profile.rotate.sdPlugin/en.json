@@ -1,0 +1,8 @@
+{
+  "Description": "Navigate to next/previous profile", 
+  "Name": "Switch Profile", 
+  "com.elgato.streamdeck.profile.rotate": {
+    "Name": "Switch Profile", 
+    "Tooltip": "Switch to another preconfigured key profile"
+  }
+}

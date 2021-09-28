@@ -1,0 +1,8 @@
+{
+  "Description": "调整 Stream Deck 键的亮度", 
+  "Name": "亮度", 
+  "com.elgato.streamdeck.system.keybrightness": {
+    "Name": "亮度", 
+    "Tooltip": "调整 Stream Deck 键的亮度"
+  }
+}

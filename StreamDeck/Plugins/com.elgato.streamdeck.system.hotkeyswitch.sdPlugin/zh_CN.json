@@ -1,0 +1,8 @@
+{
+  "Description": "在两个热键之间切换", 
+  "Name": "热键切换", 
+  "com.elgato.streamdeck.system.hotkeyswitch": {
+    "Name": "热键切换", 
+    "Tooltip": "在两个热键之间切换"
+  }
+}

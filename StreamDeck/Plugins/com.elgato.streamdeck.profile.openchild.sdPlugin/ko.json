@@ -1,0 +1,8 @@
+{
+  "Description": "폴더 생성", 
+  "Name": "폴더 생성", 
+  "com.elgato.streamdeck.profile.openchild": {
+    "Name": "폴더 생성", 
+    "Tooltip": "폴더를 생성합니다"
+  }
+}

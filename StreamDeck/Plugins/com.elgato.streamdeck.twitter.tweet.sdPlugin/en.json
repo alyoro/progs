@@ -1,0 +1,8 @@
+{
+  "Description": "Twitter integration", 
+  "Name": "Twitter integration", 
+  "com.elgato.streamdeck.twitter.tweet": {
+    "Name": "Tweet", 
+    "Tooltip": "Post a precomposed tweet"
+  }
+}

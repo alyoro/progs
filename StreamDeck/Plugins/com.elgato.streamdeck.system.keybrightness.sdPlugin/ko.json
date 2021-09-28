@@ -1,0 +1,8 @@
+{
+  "Description": "Stream Deck 키의 밝기를 조절합니다", 
+  "Name": "밝기", 
+  "com.elgato.streamdeck.system.keybrightness": {
+    "Name": "밝기", 
+    "Tooltip": "Stream Deck 키의 밝기를 조절합니다"
+  }
+}

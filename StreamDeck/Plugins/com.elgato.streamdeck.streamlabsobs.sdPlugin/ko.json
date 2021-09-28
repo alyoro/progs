@@ -1,0 +1,56 @@
+{
+  "Description": "Streamlabs OBS 연동", 
+  "Name": "Streamlabs OBS 연동", 
+  "com.elgato.streamdeck.streamlabsobs.mixeraudio": {
+    "Name": "믹서 오디오", 
+    "Tooltip": "오디오 소스를 활성화/비활성화합니다",
+    "States": [
+        {
+		  "Name": "활성화"
+        }, 
+        {
+		  "Name": "비활성화"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.streamlabsobs.record": {
+    "Name": "녹화", 
+    "Tooltip": "녹화를 시작/정지합니다",
+    "States": [
+        {
+		  "Name": "시작"
+        }, 
+        {
+		  "Name": "정지"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.streamlabsobs.scene": {
+    "Name": "장면", 
+    "Tooltip": "장면을 활성화합니다"
+  }, 
+  "com.elgato.streamdeck.streamlabsobs.source": {
+    "Name": "소스", 
+    "Tooltip": "소스를 활성화/비활성화합니다",
+    "States": [
+        {
+		  "Name": "활성화"
+        }, 
+        {
+		  "Name": "비활성화"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.streamlabsobs.stream": {
+    "Name": "스트림", 
+    "Tooltip": "실시간 스트리밍을 시작/정지합니다",
+    "States": [
+        {
+		  "Name": "시작"
+        }, 
+        {
+		  "Name": "정지"
+        }
+      ]
+  }
+}

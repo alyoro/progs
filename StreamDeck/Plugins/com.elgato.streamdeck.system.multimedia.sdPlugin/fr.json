@@ -1,0 +1,8 @@
+{
+  "Description": "Contrôler la lecture multimédia", 
+  "Name": "Multimédia", 
+  "com.elgato.streamdeck.system.multimedia": {
+    "Name": "Multimédia", 
+    "Tooltip": "Contrôler la lecture multimédia"
+  }
+}

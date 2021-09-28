@@ -1,0 +1,8 @@
+{
+  "Description": "Webサイトを開く", 
+  "Name": "Webサイト", 
+  "com.elgato.streamdeck.system.website": {
+    "Name": "Webサイト", 
+    "Tooltip": "URLを開く"
+  }
+}

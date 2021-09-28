@@ -1,0 +1,12 @@
+{
+"Description": "Caja de sonido", 
+"Name": "Caja de sonido", 
+"com.elgato.streamdeck.soundboard.playaudio": {
+"Name": "Reproducir audio", 
+"Tooltip": "Reproducir un fragmento sonoro, efecto de audio o clip de música"
+}, 
+"com.elgato.streamdeck.soundboard.stopaudioplay": {
+"Name": "Detener audio", 
+"Tooltip": "Detener todo el audio en reproducción"
+}
+}

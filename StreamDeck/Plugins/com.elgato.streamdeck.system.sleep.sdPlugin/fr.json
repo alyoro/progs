@@ -1,0 +1,8 @@
+{
+  "Description": "Mettre en veille immédiatement", 
+  "Name": "Mettre en veille", 
+  "com.elgato.streamdeck.system.sleep": {
+    "Name": "Mettre en veille", 
+    "Tooltip": "Mettez votre Stream Deck en veille"
+  }
+}

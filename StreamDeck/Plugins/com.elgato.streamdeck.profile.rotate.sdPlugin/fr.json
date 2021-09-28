@@ -1,0 +1,8 @@
+{
+  "Description": "Accéder au profil suivant/précédent", 
+  "Name": "Changer de profil", 
+  "com.elgato.streamdeck.profile.rotate": {
+    "Name": "Changer de profil", 
+    "Tooltip": "Passer à un autre profil de touches préconfiguré"
+  }
+}

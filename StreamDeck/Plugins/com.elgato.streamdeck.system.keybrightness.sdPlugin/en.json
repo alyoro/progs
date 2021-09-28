@@ -1,0 +1,8 @@
+{
+  "Description": "Adjust the brightness of your Stream Deck keys", 
+  "Name": "Brightness", 
+  "com.elgato.streamdeck.system.keybrightness": {
+    "Name": "Brightness", 
+    "Tooltip": "Adjust the brightness of your Stream Deck keys"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "Twitterと統合", 
+  "Name": "Twitterと統合", 
+  "com.elgato.streamdeck.twitter.tweet": {
+    "Name": "ツイート", 
+    "Tooltip": "事前に作成したツイートを投稿"
+  }
+}

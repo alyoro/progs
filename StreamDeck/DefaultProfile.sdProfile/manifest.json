@@ -1,0 +1,19 @@
+{
+  "Actions": {
+    "2,1": {
+      "Name": "Welcome", 
+      "Settings": {
+        "openInBrowser": true, 
+        "path": "http://e.lga.to/Welcome-to-Stream-Deck"
+      }, 
+      "States": [
+        {
+          "Image": "state0.gif"
+        }
+      ], 
+      "UUID": "com.elgato.streamdeck.system.website"
+    }
+  }, 
+  "Name": "Default Profile", 
+  "Version": "1.0"
+}

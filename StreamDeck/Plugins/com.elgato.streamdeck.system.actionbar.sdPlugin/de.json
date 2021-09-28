@@ -1,0 +1,16 @@
+{
+  "Description": "Aktionsleiste ein-/ausblenden", 
+  "Name": "Aktionsleiste ein-/ausblenden", 
+  "com.elgato.streamdeck.system.actionbar": {
+    "Name": "Aktionsleiste", 
+    "Tooltip": "Blende die Aktionsleiste ein/aus",
+    "States": [
+        {
+		  "Name": "Einblenden"
+        }, 
+        {
+		  "Name": "Ausblenden"
+        }
+      ]
+  }
+}

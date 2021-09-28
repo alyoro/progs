@@ -1,0 +1,16 @@
+{
+  "Description": "显示/隐藏操作栏", 
+  "Name": "显示/隐藏操作栏", 
+  "com.elgato.streamdeck.system.actionbar": {
+    "Name": "操作栏", 
+    "Tooltip": "显示/隐藏操作栏",
+    "States": [
+        {
+		  "Name": "显示"
+        }, 
+        {
+		  "Name": "隐藏"
+        }
+      ]
+  }
+}

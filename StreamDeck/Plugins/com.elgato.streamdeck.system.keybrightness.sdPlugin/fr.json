@@ -1,0 +1,8 @@
+{
+  "Description": "Régler la luminosité des touches de votre Stream Deck", 
+  "Name": "Luminosité", 
+  "com.elgato.streamdeck.system.keybrightness": {
+    "Name": "Luminosité", 
+    "Tooltip": "Régler la luminosité des touches de votre Stream Deck"
+  }
+}

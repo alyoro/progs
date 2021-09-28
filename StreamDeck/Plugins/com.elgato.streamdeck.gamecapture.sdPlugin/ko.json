@@ -1,0 +1,60 @@
+{
+  "Description": "Game Capture 연동", 
+  "Name": "Game Capture 연동", 
+  "com.elgato.streamdeck.gamecapture.flashbackrecord": {
+    "Name": "회상 녹화", 
+    "Tooltip": "과거로 거슬러 올라가며 녹화합니다"
+  }, 
+  "com.elgato.streamdeck.gamecapture.livecommentary": {
+    "Name": "실시간 실황 방송", 
+    "Tooltip": "실시간 실황 방송을 활성화/비활성화합니다",
+    "States": [
+        {
+		  "Name": "활성화"
+        }, 
+        {
+		  "Name": "비활성화"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.gamecapture.record": {
+    "Name": "녹화", 
+    "Tooltip": "녹화를 시작/정지합니다",
+    "States": [
+        {
+		  "Name": "시작"
+        }, 
+        {
+		  "Name": "정지"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.gamecapture.scene": {
+    "Name": "장면", 
+    "Tooltip": "장면을 활성화합니다",
+    "States": [
+        {
+		  "Name": "활성화"
+        }, 
+        {
+		  "Name":  "비활성화"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.gamecapture.screenshot": {
+    "Name": "스크린샷", 
+    "Tooltip": "스크린샷을 촬영합니다"
+  }, 
+  "com.elgato.streamdeck.gamecapture.stream": {
+    "Name": "스트림", 
+    "Tooltip": "실시간 스트리밍을 시작/정지합니다",
+    "States": [
+        {
+		  "Name": "시작"
+        }, 
+        {
+		  "Name": "정지"
+        }
+      ]
+  }
+}

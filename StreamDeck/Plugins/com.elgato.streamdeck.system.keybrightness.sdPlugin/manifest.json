@@ -1,0 +1,40 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/key_brightness_white", 
+      "Name": "Brightness", 
+      "States": [
+        {
+          "Image": "Images/btn_keybrightness_increase"
+        },
+        {
+          "Image": "Images/btn_keybrightness_decrease"
+        },
+        {
+          "Image": "Images/btn_keybrightness_max"
+        },
+        {
+          "Image": "Images/btn_keybrightness_high"
+        },
+        {
+          "Image": "Images/btn_keybrightness_medium"
+        },
+        {
+          "Image": "Images/btn_keybrightness_low"
+        },
+        {
+          "Image": "Images/btn_keybrightness_min"
+        }
+      ], 
+      "Tooltip": "Adjust the brightness of your Stream Deck keys", 
+      "UUID": "com.elgato.streamdeck.system.keybrightness",
+      "SingleStateWithMultipleActionsIndexKey": "actionIdx"
+    }
+  ], 
+  "Author": "Elgato", 
+  "Description": "Adjust the brightness of your Stream Deck keys", 
+  "Name": "Brightness", 
+  "URL": "https://www.elgato.com/en/gaming/stream-deck", 
+  "PrivateAPI": true,
+  "Version": "1.0"
+}

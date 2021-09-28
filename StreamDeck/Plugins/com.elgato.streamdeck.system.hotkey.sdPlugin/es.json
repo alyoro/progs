@@ -1,0 +1,8 @@
+{
+  "Description": "Activar un comando de tecla", 
+  "Name": "Activar un comando de tecla", 
+  "com.elgato.streamdeck.system.hotkey": {
+    "Name": "Atajo", 
+    "Tooltip": "Activar un comando de tecla"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/twitter_change_display_name_white", 
+      "Name": "Change Name", 
+      "States": [
+        {
+          "Image": "Images/btn_twitter_change_display_name"
+        }
+      ], 
+      "Tooltip": "Change your display name on Twitter", 
+      "UUID": "com.elgato.streamdeck.twitter.name"
+    }
+  ], 
+  "Author": "Elgato", 
+  "Description": "Twitter name", 
+  "Name": "Twitter name", 
+  "URL": "https://www.elgato.com/en/gaming/stream-deck", 
+  "PrivateAPI": true,
+  "Version": "1.0"
+}

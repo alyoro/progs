@@ -1,0 +1,8 @@
+{
+  "Description": "키 명령을 활성화합니다", 
+  "Name": "키 명령 활성화", 
+  "com.elgato.streamdeck.system.hotkey": {
+    "Name": "단축키", 
+    "Tooltip": "키 명령을 활성화합니다"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/obs_toggle_mixer_audio_white", 
+      "Name": "Mixer Audio", 
+      "States": [
+        {
+          "Image": "Images/btn_obs_toggle_mixer_audio",
+		  "Name": "Activate"
+        }, 
+        {
+          "Image": "Images/btn_obs_toggle_mixer_audio_inactive",
+		  "Name": "Deactivate"
+        }
+      ], 
+      "ShouldShowRefreshButton": true, 
+      "Tooltip": "Activate/deactivate an audio source", 
+      "UUID": "com.elgato.streamdeck.obs.mixeraudio"
+    }, 
+    {
+      "Icon": "Images/select_scene_white", 
+      "Name": "Scene", 
+      "States": [
+        {
+          "Image": "Images/btn_obs_select_scene"
+        }, 
+        {
+          "Image": "Images/btn_obs_select_scene_inactive"
+        }
+      ], 
+      "ShouldShowRefreshButton": true, 
+      "Tooltip": "Activate a scene", 
+      "UUID": "com.elgato.streamdeck.obs.scene"
+    }, 
+    {
+      "Icon": "Images/obs_toggle_source_white", 
+      "Name": "Source", 
+      "States": [
+        {
+          "Image": "Images/btn_obs_toggle_source",
+		  "Name": "Activate"
+        }, 
+        {
+          "Image": "Images/btn_obs_toggle_source_inactive",
+		  "Name": "Deactivate"
+        }
+      ], 
+      "ShouldShowRefreshButton": true, 
+      "Tooltip": "Activate/deactivate a source", 
+      "UUID": "com.elgato.streamdeck.obs.source"
+    }, 
+	{
+      "Icon": "Images/toggle_recording_white", 
+      "Name": "Record", 
+      "States": [
+        {
+          "Image": "Images/btn_obs_toggle_recording",
+		  "Name": "Start"
+        }, 
+        {
+          "Image": "Images/btn_obs_toggle_recording_inactive",
+		  "Name": "Stop"
+        }
+      ], 
+      "Tooltip": "Start/stop recording", 
+      "UUID": "com.elgato.streamdeck.obs.record"
+    }, 
+    {
+      "Icon": "Images/toggle_streaming_white", 
+      "Name": "Stream", 
+      "States": [
+        {
+          "Image": "Images/btn_obs_toggle_streaming",
+		  "Name": "Start"
+        }, 
+        {
+          "Image": "Images/btn_obs_toggle_streaming_inactive",
+		  "Name": "Stop"
+        }
+      ], 
+      "Tooltip": "Start/stop live streaming", 
+      "UUID": "com.elgato.streamdeck.obs.stream"
+    }
+  ], 
+  "Author": "Elgato", 
+  "Description": "OBS integration", 
+  "Name": "OBS integration", 
+  "URL": "https://www.elgato.com/en/gaming/stream-deck", 
+  "PrivateAPI": true,
+  "Version": "1.0"
+}

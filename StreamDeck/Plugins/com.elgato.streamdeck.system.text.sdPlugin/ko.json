@@ -1,0 +1,8 @@
+{
+  "Description": "미리 작성한 텍스트 문자열을 입력합니다", 
+  "Name": "텍스트", 
+  "com.elgato.streamdeck.system.text": {
+    "Name": "텍스트", 
+    "Tooltip": "미리 작성한 텍스트 문자열을 입력합니다"
+  }
+}

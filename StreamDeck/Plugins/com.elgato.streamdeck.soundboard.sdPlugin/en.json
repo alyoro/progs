@@ -1,0 +1,12 @@
+{
+"Description": "Soundboard", 
+"Name": "Soundboard", 
+"com.elgato.streamdeck.soundboard.playaudio": {
+"Name": "Play Audio", 
+"Tooltip": "Play a sound bite, audio effect or music clip"
+}, 
+"com.elgato.streamdeck.soundboard.stopaudioplay": {
+"Name": "Stop Audio", 
+"Tooltip": "Stop all Soundboard playback"
+}
+}

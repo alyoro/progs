@@ -1,0 +1,73 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/media_play_pause_white", 
+      "Name": "Multimedia", 
+      "States": [
+        {
+          "Image": "Images/btn_media_prev_track"
+        },
+        {
+          "Image": "Images/btn_media_play_pause"
+        },
+        {
+          "Image": "Images/btn_media_next_track"
+        },
+        {
+          "Image": "Images/btn_media_stop"
+        },
+        {
+          "Image": "Images/btn_media_mute"
+        },
+        {
+          "Image": "Images/btn_media_volume_up"
+        },
+        {
+          "Image": "Images/btn_media_volume_down"
+        },
+        {
+          "Image": "Images/btn_media_brightness_up"
+        },
+        {
+          "Image": "Images/btn_media_brightness_down"
+        },
+        {
+          "Image": "Images/btn_media_contrast_up"
+        },
+        {
+          "Image": "Images/btn_media_contrast_down"
+        },
+        {
+          "Image": "Images/btn_media_eject"
+        },
+        {
+          "Image": "Images/btn_media_video_mirror"
+        },
+        {
+          "Image": "Images/btn_media_fast_forward"
+        },
+        {
+          "Image": "Images/btn_media_rewind"
+        },
+        {
+          "Image": "Images/btn_media_kbdbrightness_up"
+        },
+        {
+          "Image": "Images/btn_media_kbdbrightness_down"
+        },
+        {
+          "Image": "Images/btn_media_kbdbacklight"
+        }
+      ], 
+      "Tooltip": "Control your media playback", 
+      "UUID": "com.elgato.streamdeck.system.multimedia",
+      "SingleStateWithMultipleActionsIndexKey": "actionIdx"
+    }
+  ], 
+  "Author": "Elgato", 
+  "Description": "Control your media playback", 
+  "Name": "Multimedia", 
+  "URL": "https://www.elgato.com/en/gaming/stream-deck", 
+  "PrivateAPI": true,
+  "Version": "1.0"
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "Type a precomposed text string", 
+  "Name": "Text", 
+  "com.elgato.streamdeck.system.text": {
+    "Name": "Text", 
+    "Tooltip": "Type a precomposed text string"
+  }
+}

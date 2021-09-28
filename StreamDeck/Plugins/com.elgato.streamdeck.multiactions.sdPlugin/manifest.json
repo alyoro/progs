@@ -1,0 +1,61 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/multi_action_white", 
+      "Name": "Multi Action", 
+      "States": [
+        {
+          "Image": "Images/btn_multi_action"
+        }
+      ], 
+      "Tooltip": "Execute multiple actions", 
+      "UUID": "com.elgato.streamdeck.multiactions.routine",
+	  "SupportedInMultiActions": false
+    },
+    {
+      "Icon": "Images/toggle_multiaction_off_white", 
+      "Name": "Multi Action Switch", 
+      "States": [
+        {
+          "Image": "Images/btn_custom_toggle_multiaction_off"
+        },
+        {
+          "Image": "Images/btn_custom_toggle_multiaction_on"
+        }
+      ], 
+      "Tooltip": "Toggle between two Multi Action", 
+      "UUID": "com.elgato.streamdeck.multiactions.routine2",
+	  "SupportedInMultiActions": false
+    },
+    {
+      "Icon": "Images/random_action_white", 
+      "Name": "Random Action", 
+      "States": [
+        {
+          "Image": "Images/btn_random_action"
+        }
+      ], 
+      "Tooltip": "Execute a random action", 
+      "UUID": "com.elgato.streamdeck.multiactions.random",
+	  "SupportedInMultiActions": false
+    },
+    {
+      "Icon": "Images/duration_white", 
+      "Name": "Delay", 
+      "States": [
+        {
+          "Image": "Images/btn_duration"
+        }
+      ], 
+      "Tooltip": "Pause the actions sequence", 
+      "UUID": "com.elgato.streamdeck.multiactions.delay",
+	  "SupportedInMultiActions": true
+    }
+  ], 
+  "Author": "Elgato", 
+  "Description": "Multi Action", 
+  "Name": "Multi Action", 
+  "URL": "https://www.elgato.com/en/gaming/stream-deck", 
+  "PrivateAPI": true,
+  "Version": "1.0"
+}

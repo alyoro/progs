@@ -1,0 +1,60 @@
+{
+  "Description": "将 Game Capture 集成到 Stream Deck 中", 
+  "Name": "Game Capture", 
+  "com.elgato.streamdeck.gamecapture.flashbackrecord": {
+    "Name": "闪回录制", 
+    "Tooltip": "追溯录制之前的画面"
+  }, 
+  "com.elgato.streamdeck.gamecapture.livecommentary": {
+    "Name": "实况解说", 
+    "Tooltip": "开启/关闭实况解说",
+    "States": [
+        {
+		  "Name": "开启"
+        }, 
+        {
+		  "Name": "关闭"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.gamecapture.record": {
+    "Name": "录制", 
+    "Tooltip": "开始/停止录制",
+    "States": [
+        {
+		  "Name": "开始"
+        }, 
+        {
+		  "Name": "停止"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.gamecapture.scene": {
+    "Name": "场景", 
+    "Tooltip": "激活场景",
+    "States": [
+        {
+		  "Name": "激活"
+        }, 
+        {
+		  "Name":  "禁用"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.gamecapture.screenshot": {
+    "Name": "屏幕快照", 
+    "Tooltip": "拍摄屏幕快照"
+  }, 
+  "com.elgato.streamdeck.gamecapture.stream": {
+    "Name": "直播", 
+    "Tooltip": "开始/停止直播",
+    "States": [
+        {
+		  "Name": "开始"
+        }, 
+        {
+		  "Name": "停止"
+        }
+      ]
+  }
+}

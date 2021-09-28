@@ -1,0 +1,20 @@
+{
+  "Description": "多项操作", 
+  "Name": "多项操作", 
+  "com.elgato.streamdeck.multiactions.routine": {
+    "Name": "多项操作", 
+    "Tooltip": "执行多项操作"
+  }, 
+  "com.elgato.streamdeck.multiactions.routine2": {
+    "Name": "多项操作切换", 
+    "Tooltip": "在两个多项操作之间切换"
+  }, 
+  "com.elgato.streamdeck.multiactions.random": {
+    "Name": "随机操作", 
+    "Tooltip": "执行一项随机操作"
+  }, 
+  "com.elgato.streamdeck.multiactions.delay": {
+    "Name": "延迟", 
+    "Tooltip": "在操作和操作之间添加延迟"
+  }
+}

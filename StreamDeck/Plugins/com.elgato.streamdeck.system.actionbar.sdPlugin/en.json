@@ -1,0 +1,16 @@
+{
+  "Description": "Show/hide Action Bar", 
+  "Name": "Show/hide Action Bar", 
+  "com.elgato.streamdeck.system.actionbar": {
+    "Name": "Action Bar", 
+    "Tooltip": "Show/hide Action Bar",
+    "States": [
+        {
+		  "Name": "Show"
+        }, 
+        {
+		  "Name": "Hide"
+        }
+      ]
+  }
+}

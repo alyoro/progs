@@ -1,0 +1,56 @@
+{
+  "Description": "OBSと統合", 
+  "Name": "OBSと統合", 
+  "com.elgato.streamdeck.obs.mixeraudio": {
+    "Name": "ミキサーオーディオ", 
+    "Tooltip": "オーディオソースを有効/無効にする",
+    "States": [
+        {
+		  "Name": "有効にする"
+        }, 
+        {
+		  "Name": "無効にする"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.obs.record": {
+    "Name": "録画", 
+    "Tooltip": "録画を開始/停止",
+    "States": [
+        {
+		  "Name": "開始"
+        }, 
+        {
+		  "Name": "停止"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.obs.scene": {
+    "Name": "シーン", 
+    "Tooltip": "シーンを有効にする"
+  }, 
+  "com.elgato.streamdeck.obs.source": {
+    "Name": "ソース", 
+    "Tooltip": "ソースを有効/無効にする",
+    "States": [
+        {
+		  "Name": "有効にする"
+        }, 
+        {
+		  "Name": "無効にする"
+        }
+      ]
+  }, 
+  "com.elgato.streamdeck.obs.stream": {
+    "Name": "ストリーム", 
+    "Tooltip": "ライブストリームを開始/停止",
+    "States": [
+        {
+		  "Name": "開始"
+        }, 
+        {
+		  "Name": "停止"
+        }
+      ]
+  }
+}

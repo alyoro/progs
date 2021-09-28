@@ -1,0 +1,12 @@
+{
+"Description": "Soundboard", 
+"Name": "Soundboard", 
+"com.elgato.streamdeck.soundboard.playaudio": {
+"Name": "Lire le son", 
+"Tooltip": "Lire un extrait sonore, un effet audio ou une séquence musicale"
+}, 
+"com.elgato.streamdeck.soundboard.stopaudioplay": {
+"Name": "Arrêter la lecture", 
+"Tooltip": "Arrêter intégralement la lecture dans Soundboard"
+}
+}

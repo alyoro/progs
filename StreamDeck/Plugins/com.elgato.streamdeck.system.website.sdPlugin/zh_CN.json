@@ -1,0 +1,8 @@
+{
+  "Description": "打开网站", 
+  "Name": "网站", 
+  "com.elgato.streamdeck.system.website": {
+    "Name": "网站", 
+    "Tooltip": "打开 URL"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "이전/이후 프로필로 전환합니다", 
+  "Name": "프로필 전환", 
+  "com.elgato.streamdeck.profile.rotate": {
+    "Name": "프로필 전환", 
+    "Tooltip": "미리 구성된 다른 키 프로필로 전환합니다"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "Poner en reposo ahora", 
+  "Name": "Reposo", 
+  "com.elgato.streamdeck.system.sleep": {
+    "Name": "Reposo", 
+    "Tooltip": "Poner el Stream Deck en reposo"
+  }
+}

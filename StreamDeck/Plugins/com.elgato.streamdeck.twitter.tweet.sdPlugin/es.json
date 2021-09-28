@@ -1,0 +1,8 @@
+{
+  "Description": "Integración con Twitter", 
+  "Name": "Integración con Twitter", 
+  "com.elgato.streamdeck.twitter.tweet": {
+    "Name": "Tuitear", 
+    "Tooltip": "Publicar un tuit predefinido"
+  }
+}

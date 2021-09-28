@@ -1,0 +1,8 @@
+{
+  "Description": "親フォルダを開く", 
+  "Name": "親フォルダを開く", 
+  "com.elgato.streamdeck.profile.backtoparent": {
+    "Name": "親フォルダ", 
+    "Tooltip": "親フォルダを開く"
+  }
+}

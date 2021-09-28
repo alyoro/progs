@@ -1,0 +1,8 @@
+{
+  "Description": "Twitter 연동", 
+  "Name": "Twitter 연동", 
+  "com.elgato.streamdeck.twitter.tweet": {
+    "Name": "트윗", 
+    "Tooltip": "미리 작성한 트윗을 포스팅합니다"
+  }
+}

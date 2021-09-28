@@ -1,0 +1,8 @@
+{
+  "Description": "Übergeordneten Ordner öffnen", 
+  "Name": "Übergeordneten Ordner öffnen", 
+  "com.elgato.streamdeck.profile.backtoparent": {
+    "Name": "Übergeordnete Ordner", 
+    "Tooltip": "Übergeordneten Ordner öffnen"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "立即休眠", 
+  "Name": "休眠", 
+  "com.elgato.streamdeck.system.sleep": {
+    "Name": "休眠", 
+    "Tooltip": "让您的 Stream Deck 进入休眠状态"
+  }
+}
